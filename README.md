@@ -7,7 +7,7 @@ Snapshot of common machine learning techniques in Python. Useful learning aide f
 
 ## Contents
 
-01 Predict diamond prices using linear regression in Python
+01-predict-diamond-prices-w-linear-regression-in-python  
 
 ...more coming soon.
 
