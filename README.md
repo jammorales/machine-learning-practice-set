@@ -1,7 +1,7 @@
 # Machine Learning Practice Set  
 [machine-learning-practice-set](https://github.com/jammorales/machine-learning-practice-set)  
   
-Snapshot of common machine learning techniques in Python. Useful learning aide for beginners, pivoting professionals, and other learners of machine learning who want to see the techniques applied and code along.  
+Snapshots of common machine learning techniques in Python. Useful learning aide for beginners, pivoting professionals, and other learners of machine learning who want to see the techniques applied and code along.  
 
 ---
 
