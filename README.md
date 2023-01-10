@@ -8,6 +8,7 @@ Snapshots of common machine learning techniques in Python. Useful learning aide 
 ## Contents
 
 [01-predict-diamond-prices-w-linear-regression-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/01-predict-diamond-prices-w-linear-regression-in-python)  
+[01-predict-insurance-prices-w-linear-regression-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/01-predict-insurance-prices-w-linear-regression-in-python)  
 
 ...more coming soon.
 
