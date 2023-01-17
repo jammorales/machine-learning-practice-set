@@ -12,6 +12,8 @@ Snapshots of common machine learning techniques in Python. Useful learning aide 
 [03-predict-real-estate-prices-w-linear-regression-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/02-predict-real-estate-prices-w-linear-regression-in-python)  
 [04-classify-elderly-activities-w-knn-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/04-classify-elderly-activities-w-knn-in-python)  
 [05-classify-patient-condition-w-knn-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/05-classify-patient-condition-w-knn-in-python)  
+[06-classify-flower-species-w-knn-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/06-classify-flower-species-w-knn-in-python)  
+[07-detect-financial-fraud-w-dt-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/07-detect-financial-fraud-w-dt-in-python)  
 
 ...more coming soon.
 
