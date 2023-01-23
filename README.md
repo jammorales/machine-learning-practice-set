@@ -15,6 +15,7 @@ Snapshots of common machine learning techniques in Python. Useful learning aide 
 [06-classify-flower-species-w-knn-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/06-classify-flower-species-w-knn-in-python)  
 [07-detect-financial-fraud-w-dt-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/07-detect-financial-fraud-w-dt-in-python)  
 [08-detect-liver-disease-patient-w-dt-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/08-detect-liver-disease-patient-w-dt-in-python)  
+[09-detect-poisoned-mushrooms-w-dt-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/09-detect-poisoned-mushrooms-w-dt-in-python)  
 
 ...more coming soon.
 
