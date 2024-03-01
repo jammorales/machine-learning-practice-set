@@ -19,13 +19,3 @@ Snapshots of common machine learning techniques in Python. Useful learning aide 
 [10-detect-financial-fraud-w-svm-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/10-detect-financial-fraud-w-svm-in-python)  
 [11-detect-poison-mushrooms-w-svm-in-python](https://github.com/jammorales/machine-learning-practice-set/tree/main/11-detect-poison-mushrooms-w-svm-in-python)  
 
-...more coming soon.
-
----
-## Share this work
-Feel free to share but please link to this repo and cite author. If using for commercial purposes, please reach out to author.
-
----
-Author: Morales, J.A.  
-Last update: January 11, 2023  
-URL: https://github.com/jammorales/machine-learning-practice-set
